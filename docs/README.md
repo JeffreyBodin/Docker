@@ -103,29 +103,36 @@ docker/repositories
 - See (2)
   
   `jeffreybodin/docker101tutorial`
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial`
   
   -> [General](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/general)
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/general`
   ![Hub (2)](https://i.imgur.com/ogmrbhQ.png)
   
   -> [Tags](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/tags)
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/tags`
   ![Hub (3)](https://i.imgur.com/MbzSYAH.png)
   
   -> [Builds](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/builds)
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/builds`
   ![Hub (4)](https://i.imgur.com/AmCsnyp.png)
   
   -> [Collaborators](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/collaborators)
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/collaborators`
   ![Hub (5)](https://i.imgur.com/09UlS9k.png)
   
   -> [Webhooks](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/webhooks)
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/webhooks`
   ![Hub (6)](https://i.imgur.com/3KnSjMM.png)
 
   -> [Settings](https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/settings)  
+  
   `https://hub.docker.com/repository/docker/jeffreybodin/docker101tutorial/settings`
   ![Hub (7)](https://i.imgur.com/ZJInYdN.png)
 
